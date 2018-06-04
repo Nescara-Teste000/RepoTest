@@ -1,76 +1,435 @@
 [
     [
-        "C:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app",
+        "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app",
         {
-            "sourcePath": "C:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app",
+            "state": "u",
+            "sourcePath": "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1528123743788,
             "changeTime": 1528123743788,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
-            "isMetadataFile": false,
-            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
     ],
     [
-        "C:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main",
+        "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main",
         {
-            "sourcePath": "C:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main",
+            "state": "u",
+            "sourcePath": "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1528123743788,
             "changeTime": 1528123743788,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
-            "isMetadataFile": false,
-            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default",
+        "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default",
         {
-            "sourcePath": "C:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default",
+            "state": "u",
+            "sourcePath": "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1528123743789,
-            "changeTime": 1528123743789,
-            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
             "isMetadataFile": false,
-            "state": "n",
+            "size": 0,
+            "modifiedTime": 1528137039416,
+            "changeTime": 1528137039416,
+            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\aura",
+        "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\aura",
         {
-            "sourcePath": "C:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\aura",
+            "state": "u",
+            "sourcePath": "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1528123743789,
-            "changeTime": 1528123743789,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "n",
+            "size": 0,
+            "modifiedTime": 1528137390618,
+            "changeTime": 1528137390618,
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation",
+        "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation",
         {
-            "sourcePath": "C:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation",
+            "sourcePath": "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1528124046502,
-            "changeTime": 1528124046502,
-            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "modifiedTime": 1528132126761,
+            "changeTime": 1528132126761,
+            "contentHash": "4a73e8ffb7ba37e044c1e837bf5fcc55e61ae4e3",
             "isMetadataFile": false,
-            "state": "n",
-            "isWorkspace": true,
+            "state": "u",
+            "isWorkspace": true
+        }
+    ],
+    [
+        "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 403,
+            "modifiedTime": 1528136244578,
+            "changeTime": 1528136244578,
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\layouts\\Account-Account (Support) Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\layouts\\Account-Account (Support) Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9756,
+            "modifiedTime": 1528136244594,
+            "changeTime": 1528136244594,
+            "contentHash": "94142c6ea19df359d8f2398924816a5498afc02e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9708,
+            "modifiedTime": 1528136244607,
+            "changeTime": 1528136244607,
+            "contentHash": "e85a88e4c79b0e49351c7fe72875a0a96c157ce7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\layouts\\Account-Account (Marketing) Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\layouts\\Account-Account (Marketing) Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9756,
+            "modifiedTime": 1528136244623,
+            "changeTime": 1528136244623,
+            "contentHash": "0ac2903745d3402a3279ba45b246c5286914d16d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\layouts\\Account-Account (Sales) Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\layouts\\Account-Account (Sales) Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9708,
+            "modifiedTime": 1528136244632,
+            "changeTime": 1528136244632,
+            "contentHash": "a6fc0c32caef3a798eea4f544a2000fc429aeb77",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 366,
+            "modifiedTime": 1528136244636,
+            "changeTime": 1528136244636,
+            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528136244573,
+            "changeTime": 1528136244573,
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528136244571,
+            "changeTime": 1528136244571,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528136244571,
+            "changeTime": 1528136244571,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528136244628,
+            "changeTime": 1528136244628,
+            "contentHash": "be43ec218fd4b2701663c648b5cbe93e57e32129",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528136244635,
+            "changeTime": 1528136244635,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528137080062,
+            "changeTime": 1528137080062,
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 359,
+            "modifiedTime": 1528137297339,
+            "changeTime": 1528137297339,
+            "contentHash": "dbf5accf57cb253b9c5277ea38908a487a2de071",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 195,
+            "modifiedTime": 1528137080067,
+            "changeTime": 1528137080067,
+            "contentHash": "009dea813ac2a75cc97e39cbe424285f551f3488",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528137390648,
+            "changeTime": 1528137390648,
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1528137390646,
+            "changeTime": 1528137390646,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 138,
+            "modifiedTime": 1528138250614,
+            "changeTime": 1528138250614,
+            "contentHash": "6da2bc4832a84ba163de5d088327ce62683fee1a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 246,
+            "modifiedTime": 1528137390627,
+            "changeTime": 1528137390627,
+            "contentHash": "dfe99a871ed485dfde85a92f9ef175c42e82cbc9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 126,
+            "modifiedTime": 1528138285657,
+            "changeTime": 1528138285657,
+            "contentHash": "a1222c098c06e0369b896926e42516f9d88f422b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1528137390650,
+            "changeTime": 1528137390650,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1528137390643,
+            "changeTime": 1528137390643,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1528137390631,
+            "changeTime": 1528137390631,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1528137390634,
+            "changeTime": 1528137390634,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Nèscara\\Documents\\Workspace\\SFDXtest\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1528137390640,
+            "changeTime": 1528137390640,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
             "isArtifactRoot": false
         }
     ]
